@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "name": "Laxmi",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "Anil",
+      "age": 25
+    },
+    {
+      "id": "MYjG9X2Cvmk",
+      "name": "Komuraiah",
+      "age": 40
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
